@@ -38,7 +38,7 @@ class Hello
        int m, n, i, j;
        int arr[][] = new int[10][10];
        Scanner scan = new Scanner(System.in);
-       // enter row and column for array.
+       // enter row and column for array
        System.out.print("Enter row for the array (max 10) : ");
        m = scan.nextInt();
        System.out.print("Enter column for the array (max 10) : ");
